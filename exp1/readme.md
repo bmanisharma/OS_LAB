@@ -4,9 +4,6 @@
 ![date command output](date.png)   
 ### DATE COMMAND MANUAL
 ![date command manual](mdate.png)
-### DATE TIME COMMAND OUTPUT
-![date time command output](date1.png)
-### DATE TIME COMMAND MANUAL
 ![date time command manual](mdate1.png)
 ### DATE YEAR COMMAND OUTPUT
 ![date year command output](date2.png)
@@ -71,10 +68,6 @@
 ![history command output](history.png)
 ### HISTORY COMMAND MANUAL 
 ![history command manual](mhistory.png)
-### EXIT COMMAND OUTPUT
-![exit command output](exit.png)
-### EXIT COMMAND MANUAL
-![exit command manual](mexit.png)
 ## DIRECTIORY COMMANDS
 ### PWD COMMAND OUTPUT
 ![pwd command output](pwd.png)
@@ -125,22 +118,6 @@
 ![mv  command output](mv1.png)
 ### MV -V OLD NEW COMMAND MANUAL
 ![mv  command manual](mmv.png)
-### RM FILE COMMAND OUTPUT
-![rm  command output](rm.png)
-### RM FILE COMMAND MANUAL
-![rm  command manual](mrm.png)
-### RM * COMMAND OUTPUT
-![rm * command output](rm1.png)
-### RM * COMMAND MANUAL
-![rm * command manual](mrm.png)
-### RM -R * COMMAND OUTPUT
-![rm -r * command output](rm2.png)
-### RM * COMMAND MANUAL
-![rm -r * command manual](mrm.png)
-### RM -F * COMMAND OUTPUT
-![rm -f * command output](rm3.png)
-### RM -F * COMMAND OUTPUT
-![rm -f * command manual](mrm.png)
 ### LS COMMAND OUTPUT
 ![ls command output](ls.png)
 ### LS COMMAND MANUAL
@@ -165,14 +142,6 @@
 ![ls -l command output](ls5.png)
 ### LS -L COMMAND MANUAL
 ![ls -l command manual](mls.png)
-### CMP COMMAND OUTPUT
-![cmp command output](cmp.png)
-### CMP COMMAND MANUAL
-![cmp command manual](mcmp.png)
-### CHMOD COMMAND OUTPUT
-![chmod command output](chmod.png)
-### CHMOD COMMAND MANUAL
-![chmod command manual](mchmod.png)
 
 
 
