@@ -112,12 +112,10 @@
 ![cp -r command manual](mcp.png)
 ### MV OLD NEW COMMAND OUTPUT
 ![mv command output](mv.png)
-### MV OLD NEW COMMAND MANUAL
-![mv  command manual](mmv.png)
+
 ### MV -V OLD NEW COMMAND OUTPUT
 ![mv  command output](mv1.png)
-### MV -V OLD NEW COMMAND MANUAL
-![mv  command manual](mmv.png)
+
 ### LS COMMAND OUTPUT
 ![ls command output](ls.png)
 ### LS COMMAND MANUAL
@@ -132,8 +130,7 @@
 ![ls -a command manual](mls.png)
 ### LS -X DIR NAME COMMAND OUTPUT
 ![ls -x dir command output](ls3.png)
-### LS - X DIR NAME COMMAND MANUAL
-![ls -x dir command manual](mls.png)
+
 ### LS -R COMMAND OUTPUT
 ![ls -r command manual](ls4.png)
 ### LS -R COMMAND MANUAL
