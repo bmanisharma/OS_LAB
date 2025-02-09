@@ -4,7 +4,6 @@
 ![date command output](date.png)   
 ### DATE COMMAND MANUAL
 ![date command manual](mdate.png)
-![date time command manual](mdate1.png)
 ### DATE YEAR COMMAND OUTPUT
 ![date year command output](date2.png)
 ### DATE YEAR COMMAND MANUAL
@@ -122,14 +121,10 @@
 ![ls command manual](mls.png)
 ### LS NAME * COMMAND OUTPUT
 ![ls name command output](ls1.png)
-### LS NAME * COMMAND MANUAL
-![ls name command manual](mls.png)
 ### LS - A COMMAND OUTPUT
 ![ls - a command output](ls2.png)
 ### LS - A COMMAND MANUAL
 ![ls -a command manual](mls.png)
-### LS -X DIR NAME COMMAND OUTPUT
-![ls -x dir command output](ls3.png)
 
 ### LS -R COMMAND OUTPUT
 ![ls -r command manual](ls4.png)
